@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "lakehouse-dev-ops@spark-lakehouse-marketplace": true
+  }
+}
